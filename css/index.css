@@ -1,0 +1,46 @@
+html. body {
+    min-height: 100%;
+}
+body {background-size: cover;}
+
+img {
+    width: 100%;
+    height: auto;
+}
+.aim {
+    margin: 50px;
+    font-size: 1.5em;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+}
+.aim > header > h2 {
+    margin-left: 60px;
+}
+.aim-div{ 
+    margin-left: 40px;
+    font-weight: bold;
+}
+.main-p {
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn-aim-theory {
+    margin-top: 50px;
+    text-align: center;
+    position: relative;
+    left: 45%;
+}
+.btn-aim-theory > a {
+    text-decoration: none;
+    color: white
+}
+.p-theory {
+    font-size: 20px;
+}
+.ol-theory {
+    margin-left: 50px;
+}
+.theory-img img{
+    width: 100%;
+    height: auto;
+}
